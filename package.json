@@ -18,14 +18,16 @@
     "prepare": "husky install"
   },
   "dependencies": {
+    "@heroicons/react": "^2.0.16",
     "@reduxjs/toolkit": "^1.9.3",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-redux": "^8.0.5",
-    "sass": "^1.59.2",
-    "react-router-dom": "^6.9.0",
     "axios": "^1.3.4",
-    "react-icons": "^4.8.0"
+    "react": "^18.2.0",
+    "react-chat-engine-advanced": "^0.1.28",
+    "react-dom": "^18.2.0",
+    "react-dropzone": "^14.2.3",
+    "react-redux": "^8.0.5",
+    "react-router-dom": "^6.9.0",
+    "sass": "^1.59.2"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.4.4",
