@@ -1,5 +1,5 @@
-import NotFound from './pages/404/index.jsx';
-import Home from './pages/Home';
+import NotFound from '@/pages/404/index.jsx';
+import Home from '@/pages/Home';
 import { Suspense } from 'react';
 import { Route, Routes } from 'react-router-dom';
 
