@@ -14,7 +14,7 @@
     <img src="/readme/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">React Vite Template</h3>
+  <h3 align="center">Chat Bot</h3>
 
   <p align="center">
     README template for dev.to-clone!
